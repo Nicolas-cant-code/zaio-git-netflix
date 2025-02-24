@@ -362,13 +362,12 @@ h4 {
     color: rgb(200, 200, 200, 0.9);
 }
 /* Images */
-.reason-blocks img {
-    width: 69px;
-    width: 69px;
-    fill: none;
+.reason-blocks svg {
+    width: 72px;
+    width: 72px;
     position: absolute;
-    bottom: 15px;
-    right: 10px;
+    bottom: 16px;
+    right: 16px;
 }
 
 /* QUESTIONS */
